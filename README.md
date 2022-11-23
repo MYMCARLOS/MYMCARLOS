@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mymcarlos" alt="mymcarlos" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/carlosa36509346" target="blank"><img src="https://img.shields.io/twitter/follow/mym_carlosrex?logo=twitter&style=for-the-badge" alt="mym_carlosrex" /></a> </p>
-
 - 🌱 I’m currently learning **web development**
 
 - 📫 How to reach me **mymcarlosrex@gmail.com**
