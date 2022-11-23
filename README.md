@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mymcarlosrex@gmail.com**
 
-- 📄 Know about my experiences [IN PROGRESS TO HAVE](IN PROGRESS TO HAVE)
+- 📄 Know about my experiences [IN PROGRESS TO HAVE]
 
 - ⚡ Fun fact **I like the philosophy, and the passion for web development.**
 
